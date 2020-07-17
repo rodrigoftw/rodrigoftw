@@ -2,7 +2,7 @@
 
 My name is Rodrigo Andrade and I'm a developer born, raised and based in Brazil (🇧🇷). I've been working as Front-End Developer since 2017 and as a Mobile Developer since 2016, and I'm actively looking for work in the Front-End and Mobile Development areas. I'm passionate about turning ideas into projects and helping as many people as I can.
 
-In my free time I like playing (and sometimes watching other people online playing) video-games (🕹), watching movies (🎞️), looking for all sorts of new tech stuff on the internet (📚), listening to (and definitely playing!) music (🎵). Last but not least, I like turning coffee (☕️) into code (👨🏻‍💻).
+In my free time I like playing (and sometimes watching other people online playing) video-games (🕹), watching movies (🎞️), looking for all sorts of new tech stuff on the internet (📚), listening to (and definitely playing!) music (🎵). Last but not least, I like turning coffee (☕️) into code (💻).
 
 <h4>I’m currently focusing on 👨🏻‍💻</h4>
 
