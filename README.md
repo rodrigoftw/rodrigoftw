@@ -10,7 +10,7 @@ In my free time I like playing (and sometimes watching other people online playi
 - ReactJS;
 - React Native.
 
-<h4>You can reach me here below 📫</h4>
+<h4>You can reach me below 📫</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoandrade93)](https://www.linkedin.com/in/rodrigoandrade93)
 [![GitHub Badge](https://img.shields.io/github/followers/rodrigoftw?label=follow&style=social)](https://github.com/rodrigoftw)
