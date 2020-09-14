@@ -4,29 +4,29 @@ My name is Rodrigo Andrade and I'm a developer born, raised and based in Brazil 
 
 In my free time I like playing (and sometimes watching other people online playing) video-games 🕹, watching movies 🎞️, looking for all sorts of new tech stuff over the internet 📚, listening to (and definitely playing!) music 🎵. Last but not least, I like turning coffee ☕️ into code 💻.
 
-<h3>Tech I’m currently focusing on learning/mastering 👨🏻‍💻</h3>
+<h3>👨🏻‍💻 Tech I’m currently focusing on learning/mastering:</h3>
 
-<h4>Back-end 🖥</h4>
+<h4>🖥 Back-end:</h4>
 
 - NodeJS;
 - PHP.
 
-<h4>Front-end 💻</h4>
+<h4>💻 Front-end:</h4>
 
 - ReactJS;
 - VueJS.
   
-<h4>Mobile 📱</h4>
+<h4>📱 Mobile:</h4>
 
 - React Native.
 
-<h3>Languages I know/am interested in learning 🚩</h3>
+<h3>🚩 Languages I know/am interested in learning:</h3>
 
-- Brazilian Portuguese 🇧🇷: Native speaker;
-- English 🇺🇸🇬🇧: Fluent speaker;
-- French 🇫🇷: Basic speaker (I'm enjoying learning it quite a lot!);
-- Spanish 🇪🇸: Basic speaker;
-- Italian 🇮🇹: Almost no knowledge whatsoever, but it's on my `to learn list`.
+- 🇧🇷 Brazilian Portuguese: Native speaker;
+- 🇺🇸🇬🇧 English: Fluent speaker;
+- 🇫🇷 French: Basic speaker (I'm enjoying learning it quite a lot!);
+- 🇪🇸 Spanish: Basic speaker;
+- 🇮🇹 Italian: Almost no knowledge whatsoever, but it's on my `to learn list`.
 
 <h4>You can reach me below 📫</h4>
 
