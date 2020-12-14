@@ -32,7 +32,7 @@ In my free time I like playing (and sometimes watching other people online playi
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoandrade93)](https://www.linkedin.com/in/rodrigoandrade93)
 [![GitHub Badge](https://img.shields.io/github/followers/rodrigoftw?label=follow&style=social)](https://github.com/rodrigoftw)
-
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/rodrigoftw)](https://github.com/rodrigoftw)
 
 <!--
 **rodrigoftw/rodrigoftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
